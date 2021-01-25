@@ -1,0 +1,29 @@
+.cards-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-cards {
+  margin-top: 10px;
+  width: 180px;
+  height: 180px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.card-cards img {
+  width: 100px;
+  height: 100px;
+}
+.card-detail {
+  margin: 10px auto;
+  width: 300px;
+  height: 300px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 10px;
+}

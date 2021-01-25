@@ -1,0 +1,15 @@
+.book-container {
+  width: 900px;
+  height: auto;
+  margin: 10px auto;
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.books img {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
